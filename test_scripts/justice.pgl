@@ -10,7 +10,14 @@ Program LegalDecision {
     UseContext LegalJustice;
     EvaluateCase {
         If (case.facts align with justice) {
-            Return "Just decision";
+            UseContext EthicalJustice;
+            If (case.facts align with justice) {
+                Return "Decision is just both legally and ethically.";
+            } Else {
+                Return "Decision is legally just but ethically questionable.";
+            }
+        } Else {
+            Return "Decision fails legal justice.";
         }
     }
 }
