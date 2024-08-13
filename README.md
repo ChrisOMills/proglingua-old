@@ -48,6 +48,6 @@ In this snippet, Proglingua uses different definitions of justice based on the s
 Proglingua is more than just a programming language; it's a community endeavor. As we continue to develop and refine Proglingua, we invite thinkers, coders, and philosophers alike to join us in this innovative venture. Your feedback, experiments, and discussions will help shape Proglingua into a tool that not only meets the technical demands of programming but also the ethical considerations of our society.
 
 #### **Looking Ahead**
-The journey of Proglingua is just beginning. As we explore this intersection of language, programming, and philosophy, we envision a future where programming languages are as diverse and capable as the languages we speak. By understanding and implementing Wittgenstein's principles, Proglingua aims to transform how we think about programming in relation to human values and ethics.
+The journey of Proglingua is just beginning. As we explore this intersection of language, programming, and philosophy, we envision a future where programming languages are as diverse and capable as the languages we speak as well as feature-complete as the languages we program in. By understanding and implementing Wittgenstein's principles, Proglingua aims to transform how we think about programming in relation to human values and ethics.
 
 **We invite you to experiment with Proglingua, share your insights, and help us redefine the boundaries of what programming languages can achieve.**
