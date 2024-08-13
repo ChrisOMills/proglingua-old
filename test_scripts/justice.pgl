@@ -1,0 +1,16 @@
+Context LegalJustice {
+    Define justice as "the fair and equitable treatment under the law."
+}
+
+Context EthicalJustice {
+    Define justice as "moral righteousness based on ethics rather than law."
+}
+
+Program LegalDecision {
+    UseContext LegalJustice;
+    EvaluateCase {
+        If (case.facts align with justice) {
+            Return "Just decision";
+        }
+    }
+}
