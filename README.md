@@ -44,7 +44,3 @@ Proglingua is more than just a programming language; it's a community endeavor. 
 The journey of Proglingua is just beginning. As we explore this intersection of language, programming, and philosophy, we envision a future where programming languages are as diverse and capable as the languages we speak. By understanding and implementing Wittgenstein's principles, Proglingua aims to transform how we think about programming in relation to human values and ethics.
 
 **We invite you to experiment with Proglingua, share your insights, and help us redefine the boundaries of what programming languages can achieve.**
-
----
-
-This blog post aims to spark interest and dialogue around Proglingua, highlighting its philosophical roots and practical applications. Feel free to adapt the content to better fit your vision or the platform it will be published on.
